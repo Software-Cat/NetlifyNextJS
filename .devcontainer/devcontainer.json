@@ -4,5 +4,13 @@
     "ghcr.io/devcontainers-contrib/features/netlify-cli:1": {},
     "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:0": {}
-  }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"PKief.material-icon-theme",
+			"zhuangtongfa.Material-theme"
+		]
+	}
+}
 }
